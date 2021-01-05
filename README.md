@@ -1,8 +1,12 @@
 # Addons and configuration for 3D printers
 
 
+#### Anycubic i3 mega S Klipper fast printing (first layer on 200 mm/s speed): https://youtu.be/GtIsCP1_Cyg 
+
 ### [Klipper configuration file for Anycubic i3 mega S](https://github.com/widapro/3d-printers/blob/master/anycubic-i3-mega-s/klipper/printer.cfg)
 This config file contains settings of all printer pins (steppers, sensors) for Anycubic i3 mega S in the factory configuration
+
+
 
 Klipper firmware should be compiled for the **atmega2560**
 
